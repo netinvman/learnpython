@@ -1,3 +1,5 @@
+# author: Yellow
+# date: 2015/2/21
 #!/usr/bin/env python
 
 for i in range(1, 10):
