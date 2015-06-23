@@ -14,5 +14,4 @@ for item in fileList:
     fw.write(item)
     
 fw.close()
-        
-    
+            
